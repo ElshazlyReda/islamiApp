@@ -13,3 +13,4 @@ abstract class LocalStorageService {
     return preferences.getStringList(key);
   }
 }
+
